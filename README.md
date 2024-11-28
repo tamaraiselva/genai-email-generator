@@ -134,5 +134,3 @@ app
 - **Customizable Emails:** Allow users to adjust the tone, style, or specific content of the email.  
 - **Portfolio Management UI:** Enable uploading and editing portfolio data directly from the app.  
 - **Multi-language Support:** Generate emails in different languages for global outreach.  
-
- 
