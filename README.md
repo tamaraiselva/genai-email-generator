@@ -114,7 +114,7 @@ A **Streamlit-based AI-powered Cold Email Generator** designed to simplify clien
 ## 🗂 Project Structure
 
 ```plaintext
-.
+app
 ├── chains.py          # Handles LLM tasks like job extraction and email generation
 ├── portfolio.py       # Manages portfolio data and skill-based matching
 ├── main.py            # Streamlit app logic and UI
