@@ -82,6 +82,24 @@ A **Streamlit-based AI-powered Cold Email Generator** designed to simplify clien
 
 ---
 
+## project Architecture
+
+![Architecture](imgs/architecture.png)
+
+---
+
+## Project Output
+
+![Output](imgs/demo.png)
+
+---
+
+## Project Demo
+
+![Demo](imgs/email-generator.mp4)
+
+---
+
 ## 📖 Usage
 
 1. Enter the **job listing URL** into the text box on the Streamlit app.  
