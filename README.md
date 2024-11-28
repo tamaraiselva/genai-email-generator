@@ -82,19 +82,19 @@ A **Streamlit-based AI-powered Cold Email Generator** designed to simplify clien
 
 ---
 
-## project Architecture
+## 🖼️ Project Architecture
 
 ![Architecture](imgs/architecture.png)
 
 ---
 
-## Project Output
+## 🖼️ Project Demo Screenshot
 
 ![Output](imgs/demo.png)
 
 ---
 
-## Project Demo
+## 🎥 Project Demo Video
 
 ![Demo](imgs/email-generator.mp4)
 
