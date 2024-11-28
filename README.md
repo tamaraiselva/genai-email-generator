@@ -135,17 +135,4 @@ app
 - **Portfolio Management UI:** Enable uploading and editing portfolio data directly from the app.  
 - **Multi-language Support:** Generate emails in different languages for global outreach.  
 
----
-
-## 📧 Contact
-
-Have feedback or suggestions? Reach out at:  
-**Mohan** | Business Development Executive | **AtliQ**  
-
-Connect with us on [LinkedIn](https://www.linkedin.com/company/atliq)  
-
----
-
-## 🛡 License
-
-This project is licensed under the **MIT License**. See the LICENSE file for details.  
+ 
