@@ -96,7 +96,7 @@ A **Streamlit-based AI-powered Cold Email Generator** designed to simplify clien
 
 ## 🎥 Project Demo Video
 
-![Demo](imgs/email-generator.mp4)
+[![Demo](imgs/demo.png)](imgs/email-generator.mp4)
 
 ---
 
